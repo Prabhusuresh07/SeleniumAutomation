@@ -1,4 +1,4 @@
-package day21;
+package testcases;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
